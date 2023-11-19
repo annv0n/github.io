@@ -1,0 +1,6 @@
+:root, [data-bs-theme=light] {
+  --bs-body-bg: rgba(255,255,255,0.18);
+  --bs-body-bg-rgb: 255,255,255,0.18;
+  --bs-border-width: 0px;
+}
+
